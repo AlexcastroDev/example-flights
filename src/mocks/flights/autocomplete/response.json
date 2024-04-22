@@ -1,0 +1,422 @@
+[
+    {
+        "id": "cae8748f-5b64-43a3-9ed8-f5a77837c00e",
+        "country": "United Kingdom",
+        "name": "UNI"
+    },
+    {
+        "id": "727420b9-9772-4697-a3e9-e0e3faa8b0fd",
+        "country": "Kyrgyz Republic",
+        "name": "KYR"
+    },
+    {
+        "id": "dc4d118d-8c67-4dc5-9f44-8f461c37b150",
+        "country": "Slovakia",
+        "name": "SLO"
+    },
+    {
+        "id": "730a0de6-236d-499d-a467-2de5b11e0d92",
+        "country": "Gambia",
+        "name": "GAM"
+    },
+    {
+        "id": "bb46a895-33cf-490e-a24f-e64e8d4db554",
+        "country": "Albania",
+        "name": "ALB"
+    },
+    {
+        "id": "8d8960ed-8608-4575-8fc3-1cc58e9f2d7c",
+        "country": "Samoa",
+        "name": "SAM"
+    },
+    {
+        "id": "73d5bb19-1478-4737-b916-1a9b82adce99",
+        "country": "Australia",
+        "name": "AUS"
+    },
+    {
+        "id": "c07b03a1-92b8-425d-876e-2c8571a4c395",
+        "country": "India",
+        "name": "IND"
+    },
+    {
+        "id": "04bfba5c-7fe1-42bd-b602-7496e308ec14",
+        "country": "Curacao",
+        "name": "CUR"
+    },
+    {
+        "id": "bbe251ce-757b-45ff-8352-2295dc5d0583",
+        "country": "Guernsey",
+        "name": "GUE"
+    },
+    {
+        "id": "452c59b0-91d4-4792-a7b0-5d44677fa95a",
+        "country": "Timor-Leste",
+        "name": "TIM"
+    },
+    {
+        "id": "8cb40669-25e7-4043-94c8-4fcba4dd2528",
+        "country": "Estonia",
+        "name": "EST"
+    },
+    {
+        "id": "ec601ed6-70fb-4348-b724-de6a73cbbecd",
+        "country": "Singapore",
+        "name": "SIN"
+    },
+    {
+        "id": "fff781b3-38c5-491b-9aa4-8f61ecfab0e0",
+        "country": "Chile",
+        "name": "CHI"
+    },
+    {
+        "id": "0ad6100d-8779-429f-8171-87039293cfc9",
+        "country": "Central African Republic",
+        "name": "CEN"
+    },
+    {
+        "id": "acdde262-5072-4cb9-85db-257ae25318f4",
+        "country": "United States Minor Outlying Islands",
+        "name": "UNI"
+    },
+    {
+        "id": "52559628-d544-46e7-ab48-c7926659826f",
+        "country": "France",
+        "name": "FRA"
+    },
+    {
+        "id": "b2025eb5-8e3b-4b7b-a021-d1db9a168344",
+        "country": "Tanzania",
+        "name": "TAN"
+    },
+    {
+        "id": "043447b1-1134-47b7-8a26-a0978baaa652",
+        "country": "Vanuatu",
+        "name": "VAN"
+    },
+    {
+        "id": "c2fbb844-8d02-4737-950c-3fc1690b5729",
+        "country": "Hong Kong",
+        "name": "HON"
+    },
+    {
+        "id": "76656f24-e4ba-4b49-b091-a6c5047edba1",
+        "country": "French Polynesia",
+        "name": "FRE"
+    },
+    {
+        "id": "8838e402-f01a-42de-b4bc-2462246eb92f",
+        "country": "Saint Vincent and the Grenadines",
+        "name": "SAI"
+    },
+    {
+        "id": "0b95a2a5-387b-439d-bde0-84c95d5004ff",
+        "country": "Sri Lanka",
+        "name": "SRI"
+    },
+    {
+        "id": "e46f2b85-9280-469a-9adf-f25190b86b6e",
+        "country": "Poland",
+        "name": "POL"
+    },
+    {
+        "id": "67393815-5a1e-46a9-95b8-7d92ebb4133d",
+        "country": "Monaco",
+        "name": "MON"
+    },
+    {
+        "id": "5e95bfa2-399b-4c38-ae38-dea5551805a1",
+        "country": "Zimbabwe",
+        "name": "ZIM"
+    },
+    {
+        "id": "7a827bc6-df69-4ec5-8b24-50dc400ef21d",
+        "country": "Barbados",
+        "name": "BAR"
+    },
+    {
+        "id": "52d784e8-f203-4730-9b30-714c9a66d061",
+        "country": "Syrian Arab Republic",
+        "name": "SYR"
+    },
+    {
+        "id": "b28f5edc-dac1-4f44-91b3-4ab9490f7090",
+        "country": "Romania",
+        "name": "ROM"
+    },
+    {
+        "id": "3cfdd047-8b93-409d-b34e-f3397b9e1767",
+        "country": "Armenia",
+        "name": "ARM"
+    },
+    {
+        "id": "beace140-2429-43e2-9e63-4b60782022b7",
+        "country": "Azerbaijan",
+        "name": "AZE"
+    },
+    {
+        "id": "a669f8df-e651-4d5f-af7d-cc8dc26f2a62",
+        "country": "South Africa",
+        "name": "SOU"
+    },
+    {
+        "id": "1e08833a-2821-48dc-a468-3f87bf62040d",
+        "country": "Tokelau",
+        "name": "TOK"
+    },
+    {
+        "id": "2818b780-c764-4ca3-a6bb-648d69dfe464",
+        "country": "Antarctica",
+        "name": "ANT"
+    },
+    {
+        "id": "f0a27db9-a831-49b0-bd48-d514f39a134e",
+        "country": "Gabon",
+        "name": "GAB"
+    },
+    {
+        "id": "344b888e-45b1-448e-a3f0-385a984f1b01",
+        "country": "Guyana",
+        "name": "GUY"
+    },
+    {
+        "id": "f20f6e2e-04cc-4c9e-8151-014fe4d9c8d8",
+        "country": "Macao",
+        "name": "MAC"
+    },
+    {
+        "id": "110f529f-7695-46c3-8ec4-74976e5c4f48",
+        "country": "Pakistan",
+        "name": "PAK"
+    },
+    {
+        "id": "870aa797-6b68-4be1-be67-89d47e464fc8",
+        "country": "Jordan",
+        "name": "JOR"
+    },
+    {
+        "id": "911c6540-2030-4326-8a3c-4c321ba7e973",
+        "country": "Seychelles",
+        "name": "SEY"
+    },
+    {
+        "id": "6e5a7ce4-30b0-4f94-b746-508caedb0b08",
+        "country": "Belgium",
+        "name": "BEL"
+    },
+    {
+        "id": "2abe66d2-d381-4e1d-8924-09fea7c0de90",
+        "country": "Germany",
+        "name": "GER"
+    },
+    {
+        "id": "82036be6-b1f7-4a0e-aeeb-6d3f79c44022",
+        "country": "Pitcairn Islands",
+        "name": "PIT"
+    },
+    {
+        "id": "e23035d2-3581-4a54-91ba-110b7ae882dd",
+        "country": "Argentina",
+        "name": "ARG"
+    },
+    {
+        "id": "13a2d7c1-57e0-4400-90ea-7f7711856551",
+        "country": "Morocco",
+        "name": "MOR"
+    },
+    {
+        "id": "a0000dae-1938-4aa9-82e3-ae387d2370db",
+        "country": "Turkey",
+        "name": "TUR"
+    },
+    {
+        "id": "c08147a6-e44c-43f1-94da-bd825fb49ce6",
+        "country": "Cambodia",
+        "name": "CAM"
+    },
+    {
+        "id": "ad77bdd4-52b3-4639-8c1f-febd1b918528",
+        "country": "Eswatini",
+        "name": "ESW"
+    },
+    {
+        "id": "5cbee4bf-a9a8-4654-a7ec-4603076c1820",
+        "country": "Jamaica",
+        "name": "JAM"
+    },
+    {
+        "id": "17389b83-9c19-4774-9de7-25a7e14b821e",
+        "country": "Norway",
+        "name": "NOR"
+    },
+    {
+        "id": "9f975d90-7daa-48f2-8e0a-9a0a9c08bfd0",
+        "country": "Marshall Islands",
+        "name": "MAR"
+    },
+    {
+        "id": "d89c5c9c-59f4-4ca8-bc72-23ce1cb86636",
+        "country": "Liberia",
+        "name": "LIB"
+    },
+    {
+        "id": "9c2fef4b-8527-4a31-955e-40348a68a9ad",
+        "country": "Malawi",
+        "name": "MAL"
+    },
+    {
+        "id": "257e4bf0-861c-4e5b-be28-c9d2a103c6be",
+        "country": "Niue",
+        "name": "NIU"
+    },
+    {
+        "id": "3b41831e-23a4-4161-a4ae-78d36dbd45d0",
+        "country": "Lebanon",
+        "name": "LEB"
+    },
+    {
+        "id": "babaad67-1913-4c13-b538-b3719b3ad719",
+        "country": "Puerto Rico",
+        "name": "PUE"
+    },
+    {
+        "id": "18de16f1-1361-43a5-88ff-64b25570bcbb",
+        "country": "Canada",
+        "name": "CAN"
+    },
+    {
+        "id": "99e28c25-df1c-4f5f-be3d-5eeb04986661",
+        "country": "Cameroon",
+        "name": "CAM"
+    },
+    {
+        "id": "ca07a1fa-ac5b-4e06-ad94-c5ff213cc2ed",
+        "country": "Tonga",
+        "name": "TON"
+    },
+    {
+        "id": "75b3861c-cfd4-484c-b4bd-169d6fe80192",
+        "country": "Comoros",
+        "name": "COM"
+    },
+    {
+        "id": "f036f00d-97aa-4f34-9e85-ebd5b5700a2f",
+        "country": "Heard Island and McDonald Islands",
+        "name": "HEA"
+    },
+    {
+        "id": "d9d2f498-4eaa-4f69-97b9-bdde86436a69",
+        "country": "Papua New Guinea",
+        "name": "PAP"
+    },
+    {
+        "id": "10f6751c-bf49-419e-83d1-5212bd95562e",
+        "country": "Senegal",
+        "name": "SEN"
+    },
+    {
+        "id": "c5fb0bf7-33aa-4fc2-ae59-8ac7bb141dc7",
+        "country": "Martinique",
+        "name": "MAR"
+    },
+    {
+        "id": "95f7001b-1101-4c60-bec9-65d27baaf310",
+        "country": "Venezuela",
+        "name": "VEN"
+    },
+    {
+        "id": "3acbc579-91b6-4332-aafb-fb048079c57d",
+        "country": "Namibia",
+        "name": "NAM"
+    },
+    {
+        "id": "2258f94d-cc41-4f16-ac03-ada7cc6aa1d7",
+        "country": "Bermuda",
+        "name": "BER"
+    },
+    {
+        "id": "aa8694d0-b7bc-4653-919f-86f7f7a3b7aa",
+        "country": "United Arab Emirates",
+        "name": "UNI"
+    },
+    {
+        "id": "2f313039-aee5-4970-8f11-7ca4f5f73b0f",
+        "country": "Mali",
+        "name": "MAL"
+    },
+    {
+        "id": "71bdba5e-8614-4a54-80f5-fa6d7e796a09",
+        "country": "Guam",
+        "name": "GUA"
+    },
+    {
+        "id": "235d471c-6025-43b2-9abf-b2c6832f08c4",
+        "country": "Republic of Korea",
+        "name": "REP"
+    },
+    {
+        "id": "11d6402f-9904-4210-a0c4-b84e6cbd78bd",
+        "country": "Greenland",
+        "name": "GRE"
+    },
+    {
+        "id": "972f5346-0ada-4f56-accb-cbbcd290124b",
+        "country": "Nepal",
+        "name": "NEP"
+    },
+    {
+        "id": "2a03db20-636d-429a-9503-378f61f289ac",
+        "country": "Anguilla",
+        "name": "ANG"
+    },
+    {
+        "id": "41d24bcf-6160-4b24-a473-8045a86d8749",
+        "country": "Kuwait",
+        "name": "KUW"
+    },
+    {
+        "id": "abe6c629-3efa-486d-9d77-fc3129b14dc2",
+        "country": "North Macedonia",
+        "name": "NOR"
+    },
+    {
+        "id": "388115b5-d1ff-4e8f-952b-f1b44f81a41b",
+        "country": "Finland",
+        "name": "FIN"
+    },
+    {
+        "id": "af4742d0-cad5-4319-9937-ebf03ae963ec",
+        "country": "Saint Helena",
+        "name": "SAI"
+    },
+    {
+        "id": "8fe0b312-af61-4dab-957d-fc7d546a3251",
+        "country": "Denmark",
+        "name": "DEN"
+    },
+    {
+        "id": "e8693193-6e2a-49f6-8c70-c2d9bf55c20c",
+        "country": "Panama",
+        "name": "PAN"
+    },
+    {
+        "id": "d868820d-23a1-4908-b2e1-f567050b3434",
+        "country": "Oman",
+        "name": "OMA"
+    },
+    {
+        "id": "57329ffd-0fd5-44f2-aea9-b47a9f84088c",
+        "country": "Cyprus",
+        "name": "CYP"
+    },
+    {
+        "id": "a617f176-bded-48b6-a170-f58afb3d267b",
+        "country": "Faroe Islands",
+        "name": "FAR"
+    },
+    {
+        "id": "1d5a171e-d8a8-40ad-af01-c688b3fdab6b",
+        "country": "Cote d'Ivoire",
+        "name": "COT"
+    }
+]

@@ -1,0 +1,4 @@
+.card {
+    border-top: 14px solid var(--mantine-color-green-6);
+    background-color: red;
+}
